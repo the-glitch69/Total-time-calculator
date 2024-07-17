@@ -6,8 +6,8 @@
 - colorama
 
 # How to use
--git clone https://github.com/the-glitch69/time-calculator
--sudo apt-get update
--pip3 install -r requirements.txt
--cd time-calculator
--python time.py
+- git clone https://github.com/the-glitch69/time-calculator
+- sudo apt-get update
+- pip3 install -r requirements.txt
+- cd time-calculator
+- python time.py
