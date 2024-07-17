@@ -3,7 +3,7 @@
 
 # How to use
 ```
-git clone https://github.com/the-glitch69/Total-time-calculator   
-cd Total-time-calculator
-python time_calculator.py
+git clone https://github.com/the-glitch69/time-calculator   
+cd time-calculator
+python time.py
 ```
