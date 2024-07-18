@@ -13,3 +13,11 @@ cd time-calculator
 pip3 install -r requirements.txt
 python time.py
 ```
+- to make it executable
+```
+chmod +x time.py
+```
+- to run the script
+```
+./time.py
+```
